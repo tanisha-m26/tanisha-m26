@@ -1,6 +1,14 @@
 # 💫 About Me:
-I am currently in the final year of 4 year of B.Tech at IIT Jodhpur.<br><br>I am working to collaborate on Data Science & AI/ML Engineering Solutions.<br><br>Passionate about blending data-driven strategy with intelligent decision systems.<br>
 
+Graduate student (**B.Tech, IIT Jodhpur - 2026**) with hands-on experience in **systems programming, data science, AI-assisted software engineering, application development, and full-stack development**.
+
+* 🛠️ **Systems & Core Engineering:** Engineered multithreaded C++ chat servers with OS-level concurrency and TCP socket programming.
+* 🤖 **AI/ML & Agentic Workflows:** Developed end-to-end ML pipelines, RAG architectures, and LangGraph-driven event pipelines with real-time status propagation.
+* 🚀 **Full-Stack & Cloud:** Shipped production-ready APIs, event-driven pipelines, and responsive frontend applications using Python, C++, Java, Go, React, FastAPI, Docker, and AWS.
+
+Driven to continuously design, automate, and deploy **robust, scalable, and intelligent software systems** that power everyday user experiences.<br><br> 
+Eager to contribute to real-time, distributed
+communication, agentic orchestration, and enterprise AI-assisted software systems as a Software Engineer.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tanisha-mangliya-b720b8256/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanishamangliya@gmail.com) 
